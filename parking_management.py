@@ -66,7 +66,7 @@ def tarifa(horas, modalidad):
 
 def pasar_completos(placa, horas, monto):
     global ESTACIONADOS, COMPLETOS
-
+    # borrar del diccionario y pasar como lista a completos
     pass
 
 
