@@ -1,5 +1,5 @@
 ## [ENG] Parking Management.
-This program was build in Python with Tkinter framework.  
+This program was build in Python with Tkinter package.  
 
 A system to manage a parking lot, using the licence plate to track the time it stay at the parking lot.  
 Also can print a stats summary of the cars parked on the day
